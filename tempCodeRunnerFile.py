@@ -1,0 +1,1 @@
+print(parent_table[0][num_logs-1])
